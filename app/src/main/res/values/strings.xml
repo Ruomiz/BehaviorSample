@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoordinatorHeader</string>
+    <string name="first">华为应用市场效果</string>
+    <string name="second">自定义view</string>
+
+    <string name="market_title">推荐\u3000分类\u3000排行\u3000管理\u3000我的</string>
+
+    <string name="scrollingBehavior">com.ruomiz.coordinatorheader.behavior.MarketScrollingBehavior</string>
+    <string name="testBehavior">com.ruomiz.coordinatorheader.behavior.TestBehavior</string>
+</resources>

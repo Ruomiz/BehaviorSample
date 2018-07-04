@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius">1dp</dimen>
+    <dimen name="dot_size">5dp</dimen>
+    <dimen name="bt_width">150dp</dimen>
+
+    <dimen name="item_height">180dp</dimen>
+    <dimen name="bannner_height">200dp</dimen>
+</resources>
